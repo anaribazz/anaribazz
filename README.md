@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ana, a full-stack Web Developer 👩‍💻</div>  
+### <div align="center"> I'm Ana 👩‍💻</div>  
   
 
 - 🔭 I’m currently working on my personal portfolio 💻  
