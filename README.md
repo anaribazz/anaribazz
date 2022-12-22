@@ -4,8 +4,6 @@
   
 
 # <div align="center"> Hi, I'm Ana 👩‍💻</div>  
-
-![Snake animation](https://github.com/anaribaz/anaribazz/blob/output/github-contribution-grid-snake.svg)
   
  
 
@@ -76,6 +74,7 @@
 
 <br/>  
 
+  ![Snake animation](https://github.com/anaribazz/anaribazz/blob/output/github-contribution-grid-snake.svg)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anaribazz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
