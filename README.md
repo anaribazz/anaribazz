@@ -5,6 +5,12 @@
 
 # <div align="center"> Hi, I'm Ana 👩‍💻</div>  
   
+  
+  uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: anaribazz
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
 - 🔭 I’m currently working on my personal portfolio 💻  
   
