@@ -1,9 +1,9 @@
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47dp6dq24ztwra7ocwmu9zc0u3ezsg3o0g9zdugsnd&ep=v1_gifs_search&rid=giphy.gif&ct=g)" align="center" style="width: 100%" />
+<img src=(https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47dp6dq24ztwra7ocwmu9zc0u3ezsg3o0g9zdugsnd&ep=v1_gifs_search&rid=giphy.gif&ct=g)" align="center" style="width: 100%" />
 </div>  
   
 
-#<div align="center"> Hi, I'm Ana 👩‍💻</div>  
+# <div align="center"> Hi, I'm Ana 👩‍💻</div>  
   
  
 - 🌱 I’m currently learning React Native  
